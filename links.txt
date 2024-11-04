@@ -1,0 +1,26 @@
+https://github.com/piotrulos/MSCModLoader/wiki/All-Playmaker-Global-Variables-and-Events
+https://github.com/piotrulos/MSCModLoader/wiki
+https://github.com/piotrulos/MSCModLoader/wiki/How-to-create-and-use-Asset-Bundles
+https://github.com/piotrulos/MSCModLoader/wiki/N_MSCLoader
+https://github.com/piotrulos/MSCModLoader/wiki/How-to-use-templates
+https://github.com/piotrulos/MSCModLoader
+https://github.com/zamp/MSC-Mods
+https://github.com/tommojphillips/ModAPI/wiki
+https://github.com/tommojphillips/AttachObjectDemo
+https://github.com/tommojphillips/DetectPlayerLookingAtObjectExample
+https://github.com/n0tic/SatsumaMaster-MOD
+https://github.com/MarvinBeym/MscModApi
+https://www.overtake.gg/threads/guide-how-to-make-mods-for-mysummercar.147475/
+https://www.overtake.gg/threads/how-to-start-programming-mods-for-my-summer-car.146394/
+https://www.overtake.gg/downloads/outdated-satsuma-master.27554/
+https://www.overtake.gg/downloads/depricated-mysummermultimod.19405/
+https://my-summer-car.fandom.com/wiki/Game_modifications (Audio editing is outdated, use assetstudio if possible please.)
+https://mega.nz/file/051FEDyJ#Rh_HVVm16TiHXE8uLZoYRMVjtgGKurzroxzZtdDayxw
+https://www.smart-page.net/smartnormal/
+https://www.gimp.org/
+https://www.adobe.com/products/photoshop.html *Optional, of course*
+https://archive.org/details/MS_VisualStudioCommunity-2015
+https://unity.com/releases/editor/archive (follow the instructions on how to install here: https://github.com/piotrulos/MSCModLoader/wiki/How-to-create-and-use-Asset-Bundles)
+https://pastebin.com/WPGeWMrt
+https://www.nexusmods.com/mysummercar/mods/710
+https://discord.gg/uCYceDc6
